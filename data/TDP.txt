@@ -1,0 +1,853 @@
+﻿CELLULANT LIMITED 
+Standard Operating Procedure 
+Manage Training and Staff Development PlanCellulant Limited 1 Manage Training and Staff Development Plan 
+Table of Contents 
+Cellulant Nigeria Limited Process Framework..............................................................................................3 This Document Scope.......................................................................................................................................4 Process Design Principles.............................................................................................................................4 Document Control............................................................................................................................................5 Process Overview..............................................................................................................................................6 Process Scope:...............................................................................................................................................6 Develop Firm-Wide Training Plan....................................................................................................................7 Monitor Execution of Training Plan...............................................................................................................10 Process Flowcharts..........................................................................................................................................13 Appendix ..........................................................................................................................................................18
+  
+Cellulant Limited 2 Manage Training and Staff Development Plan 
+Cellulant Nigeria Cellulant Limited Process Framework 
+  
+  
+
+Cellulant Nigeria Limited 3 Manage Training and Staff Development  Plan 
+Commented [BN1]: Hi Jide, 
+I am unable to make changes on this framework.  Kindly change it to Cellulant Limited 
+This Document Scope 
+The scope of this document covers the Manage training and staff development plan processes. 
+2. Human Resource        
+Management 
+Employee Performance and        
+Development 
+Manage Employee Performance 
+Manage training and staff  
+development plan
+Process Design Principles   
+Business process design principles guide the framework within which business processes are  designed and documented. The principles articulate a set of characteristics describing the key  considerations underlying the design of the business processes. The following principles were  adopted in the design of the business processes for Cellulant Limited: 
+Simplicity 
+The processes were designed to be simple to operate. Only relevant and value adding activities  were included in the process workflow. 
+Segregation of Duties 
+Segregation of duties is critical to effective internal control as it reduces the risk of both erroneous  and inappropriate actions. As much as possible, we have designed the processes to ensure that  no single employee can process a transaction from initiation to recording in the books. 
+Cross Functional Integration and Workflows 
+The processes were designed from a transaction lifecycle point of view. An end to end view of  the processes was maintained and necessary touch points between two processes were clearly  defined and documented. 
+Systems (Oracle NetSuite) Alignment 
+The processes were designed to be consistent with the functionality of Oracle NetSuite. We  interacted with the various departments to understand the system’s transactions processing  capabilities. 
+Roles and Responsibilities 
+Roles and responsibilities for operating the tasks and activities within the processes were identified  and documented. Process owners were clearly defined and Key Performance Indicators (KPIs)  documented for all the processes. The KPIs will be used to evaluate and monitor the achievement  of the objectives associated with the processes. 
+Cellulant Nigeria Limited 4 Manage Training and Staff Development Plan 
+Document Control 
+Document Information 
+Owner
+	
+
+	Document status
+	
+
+	Document location 
+	
+
+	
+
+
+
+  
+Document revision history 
+Version No. 
+	Status 
+	Date 
+	Author 
+	Change Log
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Reviewers   
+Date 
+	Reviewed By 
+	Role 
+	Signature
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+  
+Authorizers for sign off 
+Date 
+	Approved By 
+	Role 
+	Signature
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Distribution in addition to reviewers and authorizers
+Name 
+	Role
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Cellulant Nigeria Limited 5 Manage Training and Staff Development Plan 
+Process Overview 
+Process Scope: 
+This procedure applies to managing employee training and development. As part of strategy to  bring out the best in the employee as well as achieving corporate objectives, the human  resources department or unit is saddled with the responsibility of handling training and  development of the work force. 
+Training and development are designed based on the organizational strategic directions and the  knowledge gaps identified during the employee appraisal process. These flow into the training  and development calendar of the organization which will be developed by the human resources  department. 
+Process Objective:   
+This procedure gives guidelines/step by step activities for handling training and development  process and other related items. The objectives include: 
+• To ensure that training and developmental needs of staff are timely identified. • To ensure adequate preparations are made for the trainings and development. • To obtain management consent and support for the training and development.  • To ensure that employee derive desired benefit from the training and development. 
+• To ensure management achieves value for the money invested on the training and  development. 
+Process / Sub-process Map:
+Process 
+	Sub-processes 
+	Sub Process Ref. 
+	Page No.
+	Manage training  and staff  
+development  
+plan
+	Develop firm-wide training plan 
+	CNL/HRM/2.2.2.1 
+	7
+	Monitor execution of training plan 
+	CNL/HRM/2.2.2.2 
+	10
+	
+
+
+
+Cellulant Nigeria Limited 6 Manage Training and Staff Development Plan 
+Develop Firm-Wide Training Plan
+Sub-process  
+overview
+	On an annual basis (after the completion of the year-end review), the learning  interventions identified during the year-end review will be compiled by the Human  Resources department into a training plan. The training plan is approved by the top  management and this is circulated as the approved training plan for the year.
+	Mega Process 
+	Human Resources 
+	Doc.  
+Ref 
+	CNL/HRM
+	Major Process 
+	Employee Performance and Development 
+	Doc.  
+Ref 
+	CNL/HRM/2.2
+	Process 
+	Manage training and staff development plan 
+	Doc.  
+Ref 
+	CNL/HRM/2.2.2
+	Sub Process 
+	Develop firm-wide training plan 
+	Doc.  
+Ref 
+	CNL/HRM/2.2.2.1
+	
+
+
+
+  
+
+Inputs 
+	Outputs
+	• Completed and Approved Year-End Review  Report
+	• Approved Departmental Training Plan 
+• Approved Firm-Wide Training Plan 
+• Approved Training Schedule
+	Associated applications 
+	Process owner(s)
+	• None 
+	• Head of Human Resources
+	Dependencies/Critical Success Factor 
+	Key performance indicators
+	• Year-end review has been concluded and  learning interventions identified to bridge  performance gaps. 
+• Management’s support for training and  development. 
+• Availability of funds to implement the plan.
+	• Approved and scheduled trainings are  implemented. 
+• Improvement in the competencies and  performance of employees.
+	
+
+
+
+Associated financial accounts
+	None
+	
+
+
+
+Cellulant Nigeria Limited 7 Manage Training and Staff Development Plan 
+Process narrative
+	
+
+
+
+The following are the key activities to be performed in the development of the firm-wide training plan.
+S/N 
+	Process Description 
+	Action Party
+	1 
+	Collates the learning interventions/training needs for all staffs  from the completed “Year-End Review Report” for each  employee (refer to the “Year-End Performance Review” process) and also identifies other training needs based on the corporate  strategic direction or new legislation. 
+Line managers agree learning interventions with their direct  reports during the year-end review process. The completed  year-end review template (which will show the identified  learning interventions) must be signed by the employees and 
+endorsed by the Line managers.
+	Head of Human Resources
+	2 
+	Prepares the departmental training plan and forwards it to the  Heads of the Departments for review and approval (via e-mail). 
+The training plan must give an indication of the cost of each  training. The Head of Human Resources works with the various  departments to estimate the cost of each training.
+	Head of Human Resources
+	3 
+	Reviews the departmental training plan (amending its content  as necessary) and confirms approval to the Head of Human  Resources via a return e-mail with the approved plan. 
+Approval of the departmental training plan by the Heads of  Departments is an authorization given by the Head of the  department that the cost of the approved trainings can be  charged against the department’s approved budget.
+	Heads of Departments
+	4 
+	Prepares the firm-wide training plan (using the approved  departmental plan) and forwards it via e-mail to the Top  Management (CEO and CFO) for review and approval. 
+The firm-wide training plan is a consolidation of the approved  departmental training plans. It also gives an indication of the  total training cost for the organization.
+	Head of Human Resources
+	5 
+	Review the training plan and approves (via e-mail and a  physical sign off on the hard copy of the plan) if there is  adequate budget to support implementation. 
+Top management verifies that the plan was based on the  approved departmental training plans and that there is  adequate budget to support implementation. Where necessary,  the plan is revised and this is sent to the Head of Human  Resources as the final firm-wide training plan.
+	Top Management (Chief  Executive Officer and Chief  Finance Officer)
+	
+
+
+
+Cellulant Nigeria Limited 8 Manage Training and Staff Development Plan 
+
+
+	6 
+	Develops a training calendar for the company based on the  approved training plan and forwards it to the top management  for approval (via e-mail).
+	Head of Human Resources
+	
+
+	7 
+	Approves the training calendar via a return e-mail to the Head  of Human Resources and a sign off on the hard copy.
+	Top Management (Chief  Executive Officer and Chief  Finance Officer)
+	8 
+	Communicates the approved training calendar to the Heads of  Departments (via e-mail).
+	Head of Human Resources
+	
+
+
+
+Risks
+	• Learning interventions are not identified to bridge the gap of non-performance. 
+• Unapproved trainings are implemented.
+	Controls
+	• A training plan is developed for all departments in Cellulant (and this is consolidated into the firm-wide  training plan). 
+• All departmental trainings are approved by the Heads of the Departments. 
+• The firm-wide training is approved by the Top Management.
+	
+
+
+
+
+Frequency
+	Annual
+	
+
+
+
+Cellulant Nigeria Limited 9 Manage Training and Staff Development Plan
+Monitor Execution of Training Plan
+Sub-process  
+overview
+	This process describes the activities performed by the Human Resources department to  ensure that approved trainings are executed.
+	Mega Process 
+	Human Resources 
+	Doc.  
+Ref 
+	CNL/HRM
+	Major Process 
+	Employee Performance and Development 
+	Doc.  
+Ref 
+	CNL/HRM/2.2
+	Process 
+	Manage training and staff development plan 
+	Doc.  
+Ref 
+	CNL/HRM/2.2.2
+	Sub Process 
+	Monitor execution of training plan 
+	Doc.  
+Ref 
+	CNL/HRM/2.2.2.2
+	
+
+
+
+
+Inputs 
+	Outputs
+	• Approved Departmental Training Plan • Approved Firm-Wide Training Plan 
+• Approved Training Schedule
+	• Training Feedback Report 
+• Monthly Training Report
+	Associated applications 
+	Process owner(s)
+	• None 
+	• Head of Human Resources
+	Dependencies/Critical Success Factor 
+	Key performance indicators
+	• Management approves planned trainings to  be executed. 
+• Availability of funds to implement the plan.
+	• Improvement in the competencies and  performance of employees.
+	
+
+
+
+Associated financial accounts
+	None
+	
+
+
+
+Process narrative
+	
+
+
+
+Cellulant Nigeria Limited 10 Manage Training and Staff Development Plan 
+The following are the key activities to be performed to ensure the execution of approved trainings.
+S/N 
+	Process Description 
+	Action Party
+	In-house Training (Employee Facilitated Training)
+	1 
+	Where an approved training is to be done in-house, works with  the management to identify and decide in-house trainer to be  used for the training.
+	Learning and Development  Lead
+	2 
+	Source the training venue and ensure that training materials are  available before the scheduled training date.
+	Learning and Development  Lead 
+	3 
+	Communicate the training dates and venue to the attendees  via e- mail with their Line Managers and Heads of Department in  copy.
+	Learning and Development  Lead 
+	4 
+	Coordinate the training and get feedback from participants  immediately the training is concluded. 
+All attendees are expected to complete the training  attendance register which will be filed by the Human Resources  department as evidence that the training was executed.
+	Learning and Development  Lead 
+	5 
+	Where required, issues training certificates to the participants  and keep copy in their respective files.
+	Learning and Development  Lead
+	6 
+	Updates the training plan to reflect completion and files the  training attendance register accordingly.
+	Learning and Development  Lead
+	In-house Training Delivered by Training Consultant
+	1 
+	Where training is to be delivered by a training consultant, works  with the top management to identify the training consultant to  deliver the training
+	Learning and Development  Lead
+	2 
+	Raises a purchase requisition for the training. “Refer to Purchase  Requisition process”
+	Learning and Development  Lead
+	3 
+	Upon the issue of the contract to the training consultant, “Refer  to Manage Contract process” the Head of Human Resources  sources the training venue and ensures that training materials  are available before the scheduled training date.
+	Learning and Development  Lead
+	4 
+	Communicate the training dates and venue to the attendees  via e- mail with their Line managers and Heads of Department in  copy.
+	Learning and Development  Lead
+	5 
+	Coordinate the training and get feedback from participants  immediately the training is concluded. 
+All attendees are expected to complete the training  attendance register which will be filed by the Human Resources  department as evidence that the training was executed.
+	Learning and Development  Lead
+	
+
+
+
+Cellulant Nigeria Limited 11 Manage Training and Staff Development Plan 
+
+
+	6 
+	Where required, issues training certificates to the participants  and keep copy in their respective files.
+	Learning and Development  Lead
+	
+
+	7 
+	Updates the training plan to reflect completion and files the  training attendance register accordingly.
+	Learning and Development  Lead
+	8 
+	Submits invoice for processing. Refer to “Invoice Receipt”,  “Invoice Return” and “Invoice Processing” processes.
+	Training Consultant
+	External Training
+	1 
+	Two weeks to the scheduled training date, the Human Resources  Officer sends an e-mail to the concerned employee sensitizing  them of the planned training (with the employee’s Line manager and Head of Department in copy).
+	Learning and Development  Lead 
+	2 
+	Raises a purchase requisition for the training. “Refer to Purchase  Requisition process”
+	Learning and Development  Lead
+	3 
+	Liaises with the admin team to arrange logistics for international  trainings.
+	Learning and Development  Lead
+	4 
+	Attends the training as scheduled and forwards the evidence of  attendance (certificate of attendance etc.) to the Head of  Human Resources for filing.
+	Employee
+	5 
+	Updates the training plan to reflect completion and files the  evidence of attendance in the employees file.
+	Learning and Development  Lead
+	
+
+
+
+Risks
+	• Approved trainings are not implemented.
+	Controls
+	• Head of Human Resources monitors the training calendar to ensure that planned trainings are  executed.
+	
+
+
+
+Frequency
+	As the need arises (when planned trainings are due for execution).
+	
+
+
+
+Cellulant Nigeria Limited 12 Manage Training and Staff Development Plan
+Process Flowcharts Develop Firm-Wide Training Plan 
+s 
+e
+c
+r
+u
+o
+s
+e
+R
+ 
+n
+a
+m
+u
+H
+ 
+f
+o
+ 
+d
+a
+e
+H
+  
+Start 
+Refer to Year  
+End Performance  
+Review process. 
+Collates the learning interventions/ training needs for all staffs from the  completed Year-End Review  Report for each employee and also  identifies other training needs  based on the corporate strategic  direction or new legislation. 
+Prepares the departmental  training plan and forwards it  to the Heads of  
+Departments for review and  approval (via e-mail). 
+Prepares the firm-wide training  plan and forwards it via e-mail  to the Top Management (CEO  and CFO) for review and  approval. 
+Develops a training  
+calendar for the company  based on the approved  training plan and  
+forwards it to the top management for approval  (via e-mail). 
+End
+Communicates the  approved training  
+calendar to the Heads of  Departments (via e-mail). 
+t
+n
+e
+m
+e
+g
+a
+n
+a
+M 
+p
+o
+T
+ 
+f
+o
+ 
+s
+da
+e
+H
+) 
+O
+F
+C
+ 
+d
+n
+a
+ 
+O
+E
+C
+(
+s t
+n
+e
+m
+t
+r
+a
+p
+e
+D
+Reviews the departmental  training plan (amending its  content as necessary) and  confirms approval to the  Head of HR via a return e- mail. 
+Review the training plan and  approves (via e-mail and a  physical sign off on the hard copy  of the plan) if there is adequate  budget to support implementation. 
+Approves the training  calendar via a return e- mail to the Head of HR  and a sign off on the hard  copy. 
+Cellulant Nigeria Limited 13 Manage Training and Staff Development  Plan 
+Monitor Execution of Training Plan – In-house Training (Employee Facilitated Training) 
+ 
+n
+a
+m
+u
+H 
+f
+o
+ 
+da
+e
+H
+ 
+s
+e
+c
+r
+u
+o
+s
+e
+R 
+n
+a
+m
+u
+H
+ 
+R
+H 
+f
+o
+ 
+da
+e
+H
+s 
+e
+c
+r
+u
+o
+s
+e
+R
+r 
+e
+c
+i
+f
+f
+O
+r 
+e
+c
+i
+f
+f
+O
+ 
+R
+H
+ 
+d
+n
+a
+Start 
+be done in-house, works with the  
+Where an approved training is to  
+top management to identify and  decide in-house trainer to be  used for the training. 
+Source the training venue  and ensure that training  materials are available  before the scheduled  training date. 
+Communicate the training  dates and venue to the  attendees via e- mail with  their Line managers and  Heads of Department in  copy. 
+Coordinate the training  and get feedback from  participants immediately  the training is concluded. 
+Where required, issues  
+training certificates to  
+the participants and  
+keep copy in their  
+respective files. 
+Updates the training  
+plan to reflect  
+completion and files  
+the training  
+attendance register  
+accordingly. 
+Training  
+feedback 
+End
+Cellulant Nigeria Limited 14 Manage Training and Staff Development  Plan 
+Monitor Execution of Training Plan - In-house Training Delivered by Training Consultant (1of 2) 
+ 
+n
+a
+m
+u
+H
+ 
+f
+o
+ 
+d
+a
+e
+H
+ 
+n
+a
+m
+u
+H
+s 
+e
+c
+r
+u
+o
+s
+e
+R
+ 
+s
+r 
+e
+c
+e
+r
+c
+i
+u
+f
+f
+o
+s
+O
+e
+Start 
+consultant, works with the  
+Where training is to be  delivered by a training  
+top management to identify  the training consultant to  deliver the training. 
+Raises a purchase  requisition for the  training 
+Refer to Purchase  Requisition process. 
+the training consultant, sources the  
+Upon the issue of the contract to  
+training venue and ensures that  training materials are available  before the scheduled training  date. 
+Communicates the training  dates and venue to the  
+attendees via e- mail with their  Line managers and Heads of  Department in copy. 
+Refer to Manage  Contract process.
+ 
+R
+H 
+f
+o
+ 
+da
+e
+H
+R
+r 
+e
+c
+i
+f
+f
+O
+ 
+R
+H
+ 
+d
+n
+a
+Coordinate the training and get  feedback from participants  immediately the training is  concluded. 
+A 
+Cellulant Nigeria Limited 15 Manage Training and Staff Development  Plan 
+Monitor Execution of Training Plan - In-house Training Delivered by Training Consultant (2of 2) 
+R 
+H
+ 
+f
+o
+ 
+d
+a
+e
+H
+r 
+e
+c
+i
+f
+f
+O
+ 
+R
+H
+t 
+ 
+n
+g
+a
+t
+n
+l
+i
+n
+u
+i
+s
+a
+n
+r
+o
+T
+C
+Where required, issues  
+training certificates to the  
+A 
+participants and keep copy  
+in their respective files. 
+Updates the training plan to  
+reflect completion and files the  
+training attendance register  
+accordingly. 
+Receipt , Invoice  
+Refer to Invoice  
+Return and Invoice  
+Processing processes.
+Submits invoice for  
+processing.End 
+Cellulant Nigeria Limited 16 Manage Training and Staff Development  Plan 
+Monitor Execution of Training Plan – External Training training date, sends an e-mail to  
+ 
+s
+Commented [BN2]: I am unable to track any  changes on this. Application used is not supported  on my laptop.
+e
+cr
+u
+os
+e
+R 
+n
+a
+m
+u
+H
+ 
+n
+am
+r 
+e
+c
+i
+f
+f
+O
+s e
+Start 
+Two weeks to the scheduled  
+the concerned employee  sensitizing them of the planned  training (with the employee s  Line manager and Head of  Department in copy). 
+Liaises with the admin  
+Updates the training  plan to reflect  
+End Refer to Purchase  
+u
+H 
+f
+o
+ 
+d
+a
+e
+H
+c
+r
+u
+o
+s
+e
+R
+e 
+e
+y
+o
+Requisition process. 
+Raises a purchase  
+requisition for the training. 
+team to arrange  
+logistics for  
+international trainings. 
+Attends the training as scheduled and  forwards the evidence of attendance  
+completion and files the  evidence of attendance  in the employees file. 
+lp
+m
+E
+(certificate of attendance etc.) to the Head of  Human Resources for filing. 
+Cellulant Nigeria Limited 17 Manage Training and Staff Development  Plan 
+Appendix
+S/N 
+	Forms and Templates 
+	Ref.
+	1. 
+	Year End Review Report 
+	..\FORMS AND TEMPLATES\YEAR END REVIEW  REPORT.docx
+	
+
+
+
+Cellulant Nigeria Limited 18 Manage Training and Staff Development Plan
